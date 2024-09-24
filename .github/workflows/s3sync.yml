@@ -1,4 +1,4 @@
-name: Upload Website
+name: s3sync
 
 on:
   push:
